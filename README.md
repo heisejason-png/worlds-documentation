@@ -182,3 +182,4 @@ A: Videos themselves are typically hosted on platforms like YouTube. Within the 
 ---
 
 By following these steps, you can contribute effectively to the project's documentation. Thank you for helping keep our documentation up-to-date and informative\!
+Created by Jason Scott Heise
